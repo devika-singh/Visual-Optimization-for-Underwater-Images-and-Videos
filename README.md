@@ -6,3 +6,6 @@
 
 # Google Collab Link
 https://colab.research.google.com/drive/1FwVFlcmiWx09BsWov9aiVBym_39qd4C8?usp=sharing
+
+# References
+https://github.com/IPNUISTlegal/SUIM-Net
