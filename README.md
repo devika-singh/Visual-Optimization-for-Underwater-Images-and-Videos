@@ -7,7 +7,7 @@
 # Google Collab Link
 https://colab.research.google.com/drive/1FwVFlcmiWx09BsWov9aiVBym_39qd4C8?usp=sharing
 
-#Papers
+# Papers
 https://arxiv.org/pdf/2004.01241
 
 # References
